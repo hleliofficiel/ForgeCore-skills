@@ -93,6 +93,8 @@ When navigating or extending this repository, understand its structure:
     -   `/skills/ui-templates-and-design`: Visual hierarchy, layout patterns, and reusable UI templates.
     -   `/skills/media-management`: Image/video optimization, CDNs, and media retrieval.
     -   `/skills/cross-platform-architecture`: PWAs, React Native, and cross-platform design systems.
+    -   `/skills/cloud-architecture`: Cloud-native design, serverless, edge computing, and FinOps.
+    -   `/skills/site-reliability-engineering`: SLAs/SLOs, incident command, and chaos engineering.
 -  `README.md`: The flagship landing page and entry point for human users.
 -  `CONTRIBUTING.md`: Guidelines for human contributors.
 -  `ROADMAP.md`: Future vision for the repository.
