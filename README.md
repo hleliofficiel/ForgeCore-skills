@@ -49,6 +49,10 @@ graph TD
     A --> I(Database Engineering)
     A --> J(Microservices)
     A --> K(Data Engineering)
+    A --> L(Fullstack Architecture)
+    A --> M(UI Templates)
+    A --> N(Media Management)
+    A --> O(Cross-Platform)
 
     B --> B1[Accessibility & UX]
     B --> B2[Component Architecture]
@@ -79,6 +83,18 @@ graph TD
 
     K --> K1[ETL & ELT Patterns]
     K --> K2[Data Lakes & Warehouses]
+
+    L --> L1[Rendering Strategies]
+    L --> L2[BFF Pattern]
+
+    M --> M1[Visual Hierarchy]
+    M --> M2[Slot Architecture]
+
+    N --> N1[Optimization]
+    N --> N2[CDNs & Retrieval]
+
+    O --> O1[PWAs & Wrappers]
+    O --> O2[Native Compilation]
 ```
 
 ### 📁 Skill Directories
@@ -93,6 +109,10 @@ graph TD
 *   [`/skills/database-engineering`](skills/database-engineering/SKILL.md) - Schema design, indexing strategies, query optimization, and transaction models.
 *   [`/skills/microservices-architecture`](skills/microservices-architecture/SKILL.md) - Distributed systems, bounded contexts, service communication, and saga patterns.
 *   [`/skills/data-engineering`](skills/data-engineering/SKILL.md) - Data pipelines, batch vs. stream processing, data warehousing, and ETL/ELT architecture.
+*   [`/skills/fullstack-architecture`](skills/fullstack-architecture/SKILL.md) - Building complete web applications, integrating frontend and backend, and application design.
+*   [`/skills/ui-templates-and-design`](skills/ui-templates-and-design/SKILL.md) - Web design capabilities, visual hierarchies, and designing reusable templates of all types.
+*   [`/skills/media-management`](skills/media-management/SKILL.md) - Searching for, retrieving, and optimizing images and videos for web platforms.
+*   [`/skills/cross-platform-architecture`](skills/cross-platform-architecture/SKILL.md) - Designing applications for web, mobile, and other platforms (PWAs, React Native, etc.).
 
 ---
 
