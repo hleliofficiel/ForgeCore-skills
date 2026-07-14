@@ -89,6 +89,10 @@ When navigating or extending this repository, understand its structure:
     -   `/skills/database-engineering`: Schema design, indexing, query optimization, and transactions.
     -   `/skills/microservices-architecture`: Distributed systems, service communication, and saga patterns.
     -   `/skills/data-engineering`: Data pipelines, data warehousing, and ETL/ELT architecture.
+    -   `/skills/fullstack-architecture`: Application design, SSR/CSR/SSG, and BFF patterns.
+    -   `/skills/ui-templates-and-design`: Visual hierarchy, layout patterns, and reusable UI templates.
+    -   `/skills/media-management`: Image/video optimization, CDNs, and media retrieval.
+    -   `/skills/cross-platform-architecture`: PWAs, React Native, and cross-platform design systems.
 -  `README.md`: The flagship landing page and entry point for human users.
 -  `CONTRIBUTING.md`: Guidelines for human contributors.
 -  `ROADMAP.md`: Future vision for the repository.
