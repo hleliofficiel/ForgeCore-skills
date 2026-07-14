@@ -47,6 +47,8 @@ graph TD
     A --> G(AI Workflows)
     A --> H(Testing Strategies)
     A --> I(Database Engineering)
+    A --> J(Microservices)
+    A --> K(Data Engineering)
 
     B --> B1[Accessibility & UX]
     B --> B2[Component Architecture]
@@ -71,6 +73,12 @@ graph TD
 
     I --> I1[Schema Design]
     I --> I2[Query Optimization]
+
+    J --> J1[Service Boundaries]
+    J --> J2[Distributed Data]
+
+    K --> K1[ETL & ELT Patterns]
+    K --> K2[Data Lakes & Warehouses]
 ```
 
 ### 📁 Skill Directories
@@ -83,6 +91,8 @@ graph TD
 *   [`/skills/ai-workflows`](skills/ai-workflows/SKILL.md) - AI agent patterns, RAG architecture, prompt engineering, and LLM orchestration.
 *   [`/skills/testing-strategies`](skills/testing-strategies/SKILL.md) - Automated testing, TDD/BDD, test pyramids, mocking, and chaos engineering.
 *   [`/skills/database-engineering`](skills/database-engineering/SKILL.md) - Schema design, indexing strategies, query optimization, and transaction models.
+*   [`/skills/microservices-architecture`](skills/microservices-architecture/SKILL.md) - Distributed systems, bounded contexts, service communication, and saga patterns.
+*   [`/skills/data-engineering`](skills/data-engineering/SKILL.md) - Data pipelines, batch vs. stream processing, data warehousing, and ETL/ELT architecture.
 
 ---
 
