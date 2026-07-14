@@ -44,6 +44,9 @@ graph TD
     A --> D(API Design)
     A --> E(Security Engineering)
     A --> F(DevOps Workflows)
+    A --> G(AI Workflows)
+    A --> H(Testing Strategies)
+    A --> I(Database Engineering)
 
     B --> B1[Accessibility & UX]
     B --> B2[Component Architecture]
@@ -59,6 +62,15 @@ graph TD
 
     F --> F1[CI/CD pipelines]
     F --> F2[IaC & Observability]
+
+    G --> G1[LLM Orchestration]
+    G --> G2[Agent Patterns]
+
+    H --> H1[Test Pyramids]
+    H --> H2[TDD & Mocking]
+
+    I --> I1[Schema Design]
+    I --> I2[Query Optimization]
 ```
 
 ### 📁 Skill Directories
@@ -68,6 +80,9 @@ graph TD
 *   [`/skills/api-design`](skills/api-design/SKILL.md) - Contracts for REST and GraphQL, idempotency, rate limiting, and API security.
 *   [`/skills/security-engineering`](skills/security-engineering/SKILL.md) - Threat modeling, Application Security (AppSec), defense in depth, and incident readiness.
 *   [`/skills/devops-workflows`](skills/devops-workflows/SKILL.md) - CI/CD pipelines, Infrastructure as Code (IaC), deployment strategies, and observability.
+*   [`/skills/ai-workflows`](skills/ai-workflows/SKILL.md) - AI agent patterns, RAG architecture, prompt engineering, and LLM orchestration.
+*   [`/skills/testing-strategies`](skills/testing-strategies/SKILL.md) - Automated testing, TDD/BDD, test pyramids, mocking, and chaos engineering.
+*   [`/skills/database-engineering`](skills/database-engineering/SKILL.md) - Schema design, indexing strategies, query optimization, and transaction models.
 
 ---
 
