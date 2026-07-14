@@ -87,6 +87,8 @@ When navigating or extending this repository, understand its structure:
     -   `/skills/ai-workflows`: AI agent patterns, RAG architecture, and LLM orchestration.
     -   `/skills/testing-strategies`: Automated testing, TDD, mocking, and chaos engineering.
     -   `/skills/database-engineering`: Schema design, indexing, query optimization, and transactions.
+    -   `/skills/microservices-architecture`: Distributed systems, service communication, and saga patterns.
+    -   `/skills/data-engineering`: Data pipelines, data warehousing, and ETL/ELT architecture.
 -  `README.md`: The flagship landing page and entry point for human users.
 -  `CONTRIBUTING.md`: Guidelines for human contributors.
 -  `ROADMAP.md`: Future vision for the repository.
